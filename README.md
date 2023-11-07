@@ -1,3 +1,4 @@
+Hello My Discord is vinny_gn
 # lottery.aleo
 
 ## Run Guide
